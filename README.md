@@ -6,4 +6,5 @@ Machine Translation Project :
 
 Building a model which translates English to French.
 
-Using LSTM   Recurrent Neural Network.
+Using LSTM   Recurrent Neural Network.\
+we are able to do the machine translation..
